@@ -1,0 +1,17 @@
+.place__paragraph-items {
+    grid-area: four;
+    max-width: 484px;
+}
+
+@media screen and (max-width: 768px) {
+    .place__paragraph-items {
+        max-width: 352px;
+    }
+  }
+
+  @media screen and (min-width: 320px) and (max-width: 425px) {
+
+    .place__paragraph-items {
+        margin: 0px 16px;
+    }
+  }
