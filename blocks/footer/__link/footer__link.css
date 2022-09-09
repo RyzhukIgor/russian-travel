@@ -1,5 +1,5 @@
 .footer__link {
-    font-family: 'Inter';
+    font-family: "Inter", Arial, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -13,12 +13,18 @@
     padding-right: 0px;
 }
 
+
+.footer__link:hover {
+    opacity: 0.8;
+}
+
 @media screen and (min-width: 320px) and (max-width: 425px) {
     .footer__link {
         padding: 0px 0px 32px 0px;
         font-size: 24px;
         line-height: 24px;
     }
+
     .footer__link:last-child {
         padding: 0px;
     }
