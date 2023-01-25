@@ -1,6 +1,6 @@
 ## Проект «Путешествие по России»
 
-<img src="/russian-travel.gif">
+<img src="https://github.com/RyzhukIgor/russian-travel/blob/main/sprint-3-images/travel.gif">
 
 Проектная работа курса «Веб‑разработчик» обучающей платформы "Яндекс Практикум") 
 :open_file_folder:
