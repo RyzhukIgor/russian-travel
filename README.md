@@ -2,9 +2,9 @@
 
 <img src="https://github.com/RyzhukIgor/russian-travel/blob/main/sprint-3-images/travel.gif">
 
-Проектная работа курса «Веб‑разработчик» обучающей платформы "Яндекс Практикум") 
+Проектная работа курса «Веб‑разработчик» обучающей платформы "Яндекс Практикум")   
 :open_file_folder:
-##[Посмотреть проект](https://ryzhukigor.github.io/russian-travel/)
+[Посмотреть проект](https://ryzhukigor.github.io/russian-travel/)  
 ## Краткое описание
 Одностраничный сайт о путешествия по интересным местам России. 
 Разработан с использованием HTML и CSS.   
